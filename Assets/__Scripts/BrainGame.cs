@@ -106,7 +106,6 @@ public class BrainGame : MonoBehaviour
 
         if (score > instance.level.scoreRequired && instance.currentLevel < instance.levels.Count - 1)
         {
-            score = 0;
             instance.currentLevel++;
             levelUI.text = "Level " + (instance.currentLevel + 1).ToString();
             

@@ -1761,12 +1761,12 @@ MonoBehaviour:
     sliderColor: {r: 0.15185562, g: 0.8666823, b: 0.9198113, a: 1}
   - valueRange: {x: 5, y: 9}
     travelTime: 5
-    scoreRequired: 350
+    scoreRequired: 600
     betweenTime: 4
     sliderColor: {r: 0.1965112, g: 0.9056604, b: 0.59786814, a: 1}
   - valueRange: {x: 8, y: 12}
     travelTime: 4.5
-    scoreRequired: 500
+    scoreRequired: 2000
     betweenTime: 3.5
     sliderColor: {r: 0.7183491, g: 0.9198113, b: 0.09111338, a: 1}
   crateXRange: {x: -2.6, y: 2.6}
